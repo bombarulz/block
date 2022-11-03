@@ -1,0 +1,248 @@
+www.slobodenpecat.mk##.penci-container-fluid\>.banner-sticky_desktop
+www.freepik.com##.coupon-popup.pd-lv2.paragraph-readable--xs.content
+www.freepik.com##.notification--show.bg__background--secondary.notification--hide-disable.notify--banner.notify.notification
+unsplash.com##.rx4AP > .M5vdR.U8eXG.bYpwS.rJ2xz > .Z9B2b
+unsplash.com###app > div > div > div > div.M5vdR.U8eXG.bYpwS.rJ2xz > .Z9B2b
+unsplash.com###app > div > div > div > div.M5vdR.U8eXG.bYpwS.rJ2xz > .vNWg5
+unsplash.com##.rx4AP > .M5vdR.U8eXG.bYpwS.rJ2xz > .vNWg5
+!Reklamni pozicii
+time.mk###ads_pane
+time.mk###adpos1
+time.mk###adpos_branding
+!Kancer Portali
+time.mk##a[href*="plusinfo"]
+time.mk##a[href*="sitel"]
+time.mk##a[href*="sport"]
+time.mk##a[href*="gol"]
+time.mk##a[href*="derbi"]
+time.mk##a[href*="kurir"]
+time.mk##a[href*="republika.mk"]
+time.mk##a[href*="info"]
+time.mk##a[href*="puls24"]
+time.mk##a[href*="faktor"]
+time.mk##a[href*="novamakedonija"]
+time.mk##a[href*="ekran"]
+time.mk##a[href*="off.net"]
+time.mk##a[href*="offnet"]
+time.mk##a[href*="crnobelo"]
+time.mk##a[href*="vecer.press"]
+time.mk##a[href*="vecer"]
+time.mk##a[href*="espreso"]
+time.mk##a[href*="ekipa"]
+time.mk##a[href*="popara"]
+time.mk##a[href*="kanal5"]
+time.mk##a[href*="Црнобело"]
+time.mk##a[href*="vocentar"]
+time.mk##a[href*="fudbal"]
+!lajna
+time.mk##.cluster:has-text(/Карлеуша/)
+time.mk##a[href*="Карлеуша"]
+time.mk##.cluster:has-text(/мода/)
+time.mk##a[href*="мода"]
+time.mk##:xpath(/html/body/div[2]/div[28]/div[2]/div[4])
+time.mk##:xpath(/html/body/div[2]/div[26])
+!Horoskop Lajna
+time.mk##a[href*="Хороскопски"]
+time.mk##.cluster:has-text(/хороскопски/)
+time.mk##a[href*="horoskop"]
+time.mk##.cluster:has-text(/horoskop/)
+time.mk##a[href*="хороскоп"]
+time.mk##.cluster:has-text(/хороскоп/)
+time.mk##a[href*="хороскопски"]
+time.mk##.cluster:has-text(/Астролоз/)
+time.mk##.cluster:has-text(/астролозите/)
+time.mk##.cluster:has-text(/Зодијакот/)
+time.mk##a[href*="Зодијакот"]
+!Religija lajna
+time.mk##a[href*="Господ"]
+time.mk##a[href*="gospod"]
+time.mk##.cluster:has-text(/Боже/)
+time.mk##.cluster:has-text(/боже/)
+time.mk##.cluster:has-text(/бог/)
+time.mk##.cluster:has-text(/празник/)
+time.mk##.cluster:has-text(/господ/)
+time.mk##.cluster:has-text(/алах/)
+time.mk##.cluster:has-text(/храм/)
+time.mk##.cluster:has-text(/цркв/)
+time.mk##.cluster:has-text(/џами/)
+time.mk##.cluster:has-text(/религија/)
+time.mk##.cluster:has-text(/христијан/)
+time.mk##.cluster:has-text(/муслиман/)
+time.mk##.cluster:has-text(/вера/)
+time.mk##.cluster:has-text(/исус/)
+time.mk##.cluster:has-text(/Исус/)
+time.mk##.cluster:has-text(/Христос/)
+time.mk##.cluster:has-text(/Мухамед/)
+time.mk##.cluster:has-text(/заповед/)
+time.mk##.cluster:has-text(/молитва/)
+time.mk##.cluster:has-text(/молитви/)
+time.mk##.cluster:has-text(/побожен/)
+time.mk##.cluster:has-text(/крст/)
+!Sport Lajna
+time.mk##:xpath(/html/body/div[2]/div[28]/div[2]/div[2])
+time.mk##.cluster:has-text(/меч/)
+time.mk##.cluster:has-text(/тимот/) 
+time.mk##.cluster:has-text(/погодок/)
+time.mk##.cluster:has-text(/играч/)
+time.mk##.cluster:has-text(/играчи/)
+time.mk##.cluster:has-text(/етаблира/)
+time.mk##.cluster:has-text(/коло/)
+time.mk##.cluster:has-text(/пласман/)
+time.mk##.cluster:has-text(/титула/)
+time.mk##.cluster:has-text(/опен/)
+time.mk##.cluster:has-text(/финале/)
+time.mk##.cluster:has-text(/клубот/)
+time.mk##.cluster:has-text(/шкупи/)
+time.mk##.cluster:has-text(/клупата/)
+time.mk##.cluster:has-text(/Лигата/)
+time.mk##.cluster:has-text(/шампионите/)
+time.mk##.cluster:has-text(/Екипата/)
+time.mk##.cluster:has-text(/fudbal/)
+time.mk##.cluster:has-text(/гол/)
+time.mk##.cluster:has-text(/спорт/)
+time.mk##.cluster:has-text(/шпекулации/)
+time.mk##.cluster:has-text(/дрес/)
+time.mk##.cluster:has-text(/стадион/)
+time.mk##.cluster:has-text(/трансфер/)
+time.mk##.cluster:has-text(/фудбалер/)
+time.mk##.cluster:has-text(/Барселона/) 
+time.mk##.cluster:has-text(/гигант/)
+time.mk##.cluster:has-text(/натпревар/)
+time.mk##.cluster:has-text(/одиграа/)
+time.mk##.cluster:has-text(/тренер/)
+time.mk##.cluster:has-text(/диета/)
+time.mk##.cluster:has-text(/фудбал/)
+time.mk##.cluster:has-text(/Фудбалерите/)
+time.mk##.cluster:has-text(/гостува/)
+time.mk##.cluster:has-text(/лига/)
+time.mk##.cluster:has-text(/првенство/)
+time.mk##.cluster:has-text(/репрезента/)
+time.mk##.cluster:has-text(/ранг-листа/)
+time.mk##.cluster:has-text(/маратон/)
+time.mk##.cluster:has-text(/лш/)
+time.mk##.cluster:has-text(/шампион/)
+time.mk##.cluster:has-text(/шпиц/)
+time.mk##.cluster:has-text(/терен/)
+time.mk##.cluster:has-text(/сезона/)
+time.mk##.cluster:has-text(/ѕвер/)
+time.mk##.cluster:has-text(/Меси/)
+time.mk##.cluster:has-text(/Лига/)
+time.mk##.cluster:has-text(/шут/)
+time.mk##.cluster:has-text(/истакна/)
+time.mk##.cluster:has-text(/првак/)
+time.mk##.cluster:has-text(/зглоб/)
+time.mk##.cluster:has-text(/куп/)
+time.mk##.cluster:has-text(/пораз/)
+time.mk##.cluster:has-text(/олимписки/)
+time.mk##.cluster:has-text(/бокс/)
+time.mk##.cluster:has-text(/Фудбалерот/)
+!YOUTUBE Block Content that Contains some keywords
+youtube.com##.ytd-rich-grid-media:has-text(/TikToks/)
+youtube.com##.ytd-rich-grid-media:has-text(/TikTok/)
+youtube.com##.ytd-rich-grid-media:has-text(/Lipa/)
+youtube.com##.ytd-rich-grid-media:has-text(/Swift/)
+youtube.com##.ytd-rich-grid-media:has-text(/Rap/)
+youtube.com##.ytd-rich-grid-media:has-text(/Sheeran/)
+youtube.com##.ytd-rich-grid-media:has-text(/Adele/)
+youtube.com##.ytd-rich-grid-media:has-text(/Bieber/)
+youtube.com##.ytd-rich-grid-media:has-text(/Goals/)
+youtube.com##.ytd-rich-grid-media:has-text(/Zubi/)
+!Youtube Remove bloat
+www.youtube.com##ytd-button-renderer:has([aria-label="Share"])
+www.youtube.com##ytd-button-renderer:has([aria-label="Clip"])
+www.youtube.com##ytd-button-renderer:has([aria-label="Save to playlist"])
+www.youtube.com##ytd-button-renderer:has([aria-label="Thanks"])
+www.youtube.com##ytd-button-renderer:has([aria-label="Join this channel"])
+www.youtube.com##ytd-button-renderer:has([aria-label="Search with your voice"])
+www.youtube.com##yt-icon-button:has([aria-label="Create"])
+www.youtube.com##.ytd-menu-renderer:has([aria-label="More actions"])
+www.youtube.com###actions .ryd-tooltip{right: 0;position: absolute!important;top: 97px!important;}
+www.youtube.com##:xpath(//*[@id="country-code"])
+www.youtube.com###hover-overlays > ytd-thumbnail-overlay-toggle-button-renderer:nth-child(1)
+www.youtube.com###hover-overlays > ytd-thumbnail-overlay-toggle-button-renderer:nth-child(2)
+www.youtube.com##yt-dropdown-menu:has([aria-label="Sort comments"])
+www.youtube.com###panel-button:has-text(/Click here to read comments while watching the video./)
+www.youtube.com##.ytp-miniplayer-button
+www.youtube.com###startSegmentButton
+www.youtube.com###infoButton
+www.youtube.com##.ytp-autonav-toggle-button-container
+www.youtube.com##ytd-promoted-sparkles-web-renderer{display:none!important;}
+www.youtube.com###title:has-text(/Shorts/):upward(#dismissible)
+!youtube tests
+!www.youtube.com##.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"]:upward(#dismissible)
+!youtube.com#$##ytd-watch-metadata {padding-left: 15px;  flex: unset;}
+!youtube.com##ytd-subscribe-button-renderer {right: 0;position:absolute;padding-right:20%;}
+!youtube.com##.ytd-menu-renderer:has(> a > #button > #button[aria-label="Share"])
+!youtube.com#@#ytd-button-renderer:has(> a > #button > #button[aria-label="Share"])
+!youtube.com###top-level-buttons>ytd-button-renderer>a>#button>[aria-label="Share"]:upward(ytd-button-renderer)
+!youtube.com###content:has-text(/tiktok/) 
+!youtube.com###content:has-text(/TikToks/) 
+!youtube.com##.ytp-miniplayer-button:has([aria-label="Miniplayer keyboard shortcut i"])
+!www.youtube.com##ytd-miniplayer[has-playlist-data=""]
+!RUTRACKER
+rutracker.org##.row1,.row4,#logo-td,.tCenter,#page_content{background:#1a1a1a!important;}
+rutracker.org##:xpath(/html/body/div[4]/div[1]/div[1]/div[2]/table/tbody/tr/td[2]/div)
+rutracker.org##:xpath(//*[@id="sidebar1"])
+rutracker.org##:xpath(//*[@id="idx-sidebar2"])
+rutracker.org##:xpath(/html/body/div[4]/div[1]/div[2]/table/tbody/tr/td[2]/div/div[1]/table/tbody/tr/td[2])
+
+!, # {display:none!important;}
+!#logo-td{background:#1a1a1a !important;}
+!.tCenter{background:#1a1a1a !important;}
+
+! 2022-06-17 https://time.mk
+!time.mk##div.kategorija_wrap:nth-of-type(26)
+!time.mk##div.kategorija_wrap:nth-of-type(2)
+!time.mk##div.kategorija_wrap:nth-of-type(4)
+!time.mk##.cluster>.article_body>p:has-text(/гол/)
+! 2022-06-22 https://alsat.mk
+alsat.mk###lwdgt-5108
+alsat.mk###lwdgt-6648
+alsat.mk###lwdgt-3656
+! 2022-07-25 https://pixabay.com
+pixabay.com##.container--1MiV3 > .container--Ir0yq > .innerContainer--1J1Br
+! 2022-09-18 https://www.startpage.com
+www.startpage.com##.internxt-promo__popup
+www.startpage.com###marketing-tag-container
+! Hide left and right padding containers.
+yt.artemislena.eu#$#div.pure-u-md-2-24.pure-u-1:nth-of-type(1) { display: none !important }
+yt.artemislena.eu#$#div.pure-u-md-2-24.pure-u-1:nth-of-type(3) { display: none !important }
+yewtu.be#$#div.pure-u-md-2-24.pure-u-1:nth-of-type(1) { display: none !important }
+yewtu.be#$#div.pure-u-md-2-24.pure-u-1:nth-of-type(3) { display: none !important }
+! Stretch the player horizontally and vertically.
+yt.artemislena.eu#$##player-container { width: 98vw !important; height: 100vh !important; }
+yt.artemislena.eu#$##player-container { padding: 0px !important; }
+yt.artemislena.eu#$##player { height: 92vh !important }
+yewtu.be#$##player-container { width: 98vw !important; height: 100vh !important; }
+yewtu.be#$##player-container { padding: 0px !important; }
+yewtu.be#$##player { height: 92vh !important }
+! Hide the scroll bars (WebKit).
+yt.artemislena.eu#$#html::-webkit-scrollbar { display: none !important }
+yewtu.be#$#html::-webkit-scrollbar { display: none !important }
+! Minor visual changes
+yt.artemislena.eu#$#.vjs-big-play-button { border: .06666em solid rgba(0, 0, 0, 0.0) !important }
+yewtu.be#$#.vjs-big-play-button { border: .06666em solid rgba(0, 0, 0, 0.0) !important }
+! Modify navbar height such that it equals window.scrollY (53px in my case).
+! Scroll down once to focus entire video. You can use an extension like Redirector to redirect a video
+! from  /watch\?v=([a-zA-Z_\-0-9]{11})  to  /watch?v=$1#player-container
+! which will scroll down to the video container.
+! You can then scroll up to use the navbar and scroll back down once to focus the entire player.
+! Side note: You can also use Redirector to redirect any YouTube link to your Invidious instance.
+yt.artemislena.eu#$#.navbar { margin-top: 8.5px !important; margin-bottom: 8.5px !important; }
+yewtu.be#$#.navbar { margin-top: 8.5px !important; margin-bottom: 8.5px !important; }
+! Remove Religious Bullshit on all websites
+*##p:has-text(/jesus/)
+*##p:has-text(/Jesus/)
+*##p:has-text(/christ/)
+*##p:has-text(/allah/)
+*##p:has-text(/christ/)
+! YT Subscriptions tab - Remove all vids shorter than 2 minutes
+!youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-thumbnail-overlay-time-status-renderer>#text[aria-label^="1 minute"], ytd-browse[page-subtype="subscriptions"] ytd-thumbnail-overlay-time-status-renderer>#text:not([aria-label*="hour"], [aria-label*="minute"])[aria-label$="seconds"]:upward(ytd-grid-video-renderer)
+
+! YT Home - Remove all vids shorter than 2 minutes
+!youtube.com##ytd-browse[page-subtype="home"] ytd-thumbnail-overlay-time-status-renderer>#text[aria-label^="1 minute"], ytd-browse[page-subtype="home"] ytd-thumbnail-overlay-time-status-renderer>#text:not([aria-label*="hour"], [aria-label*="minute"])[aria-label$="seconds"]:upward(ytd-rich-item-renderer)
+
+! 2022-11-01 https://rutracker.org
+rutracker.org###sidebar1
+rutracker.org###sidebar1
+
